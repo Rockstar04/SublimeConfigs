@@ -1,0 +1,29 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"Alignment",
+		"Alphpetize",
+		"ApacheConf.tmLanguage",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"GitGutter",
+		"INI",
+		"jQuery",
+		"LESS",
+		"Markdown Preview",
+		"Minifier",
+		"Package Control",
+		"PHP Zend Framework 2 Helper",
+		"PHP-Twig",
+		"PHPUnit Completions",
+		"Placeholders",
+		"Pretty JSON",
+		"Puppet",
+		"Puppet Syntax checking",
+		"SublimeCodeIntel",
+		"Twig"
+	]
+}
